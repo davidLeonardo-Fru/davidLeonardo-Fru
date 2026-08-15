@@ -1,375 +1,280 @@
 <div align="center">
 
+<img src="./github-profile-banner.png" width="100%" alt="Leonardo Flores — Backend-Focused Full Stack Developer" />
+
+<br />
+
+<a href="https://git.io/typing-svg">
   <img
-    src="./github-profile-banner.png"
-    width="100%"
-    alt="Leonardo Flores | Backend-Focused Full Stack Developer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=780&lines=Designing+reliable+backend+systems;Building+maintainable+APIs+and+integrations;Turning+business+workflows+into+software;Exploring+practical+AI+and+automation"
+    alt="Professional development focus"
   />
+</a>
 
-  <br>
-  <br>
+<br />
 
-  <a href="https://www.linkedin.com/in/leonardo-flores-dev/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    >
-  </a>
-
-  <img
-    src="https://img.shields.io/badge/AVAILABLE_FOR-BACKEND_ROLES-111827?style=for-the-badge&logo=github&logoColor=3B82F6"
-    alt="Available for backend roles"
-  >
-
-  <img
-    src="https://img.shields.io/badge/BASED_IN-ECUADOR-111827?style=for-the-badge&logo=googlemaps&logoColor=3B82F6"
-    alt="Based in Ecuador"
-  >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+![Location](https://img.shields.io/badge/Quito-Ecuador-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
+![Availability](https://img.shields.io/badge/Open_to-Software_Opportunities-111827?style=for-the-badge&logo=briefcase&logoColor=60A5FA)
 
 </div>
 
-<br>
+---
+
+## Engineering Profile
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-<h2>Software profile</h2>
+### Building beyond the interface
 
-<p>
-  I build the backend foundations behind digital products:
-  APIs, business logic, data flows, integrations and automation.
-</p>
+I am a **Backend-Focused Full Stack Developer** interested in designing the systems that power modern digital products.
 
-<p>
-  <strong>Full Stack Developer</strong><br>
-  Backend engineering · Web architecture · AI automation
-</p>
+My work combines backend development, web architecture, API design, frontend implementation, artificial intelligence, and workflow automation.
 
-<br>
+I approach software as a complete system: business rules, data models, services, integrations, user experience, deployment, and long-term maintainability.
 
-<pre>
-ROLE       Full Stack Developer
-SPECIALTY  Backend Engineering
-LANGUAGES  Spanish / English
-LOCATION   Quito, Ecuador
-STATUS     Open to opportunities
-</pre>
+</td>
+<td width="40%" valign="top">
 
-  </td>
+### Core Direction
 
-  <td width="42%" valign="top">
+```text
+FOCUS       Backend Engineering
+DESIGN      Web Architecture
+BUILD       APIs & Integrations
+EXPLORE     AI & Automation
+DELIVER     Full Stack Products
+```
 
-<h2>Primary focus</h2>
+### Current Status
 
-<table>
-  <tr>
-    <td>01</td>
-    <td><strong>Backend Architecture</strong></td>
-  </tr>
-  <tr>
-    <td>02</td>
-    <td><strong>REST API Design</strong></td>
-  </tr>
-  <tr>
-    <td>03</td>
-    <td><strong>Data & Integrations</strong></td>
-  </tr>
-  <tr>
-    <td>04</td>
-    <td><strong>AI & Automation</strong></td>
-  </tr>
-  <tr>
-    <td>05</td>
-    <td><strong>Full Product Delivery</strong></td>
-  </tr>
+```text
+Based in    Quito, Ecuador
+Languages   Spanish · English
+Open to     Backend / Full Stack roles
+```
+
+</td>
+</tr>
 </table>
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-  <h2>Core technology</h2>
-
-  <p>
-    Technologies I use to design and deliver complete web systems.
-  </p>
-
-  <br>
-
-  <img
-    src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,mysql&theme=dark"
-    alt="Backend technology stack"
-  >
-
-  <br>
-  <br>
-
-  <img
-    src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,html,css&theme=dark"
-    alt="Frontend technology stack"
-  >
-
-  <br>
-  <br>
-
-  <img
-    src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark"
-    alt="Development and deployment tools"
-  >
-
-</div>
-
-<br>
-<br>
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-
-<h3>DESIGN</h3>
-
-<p>
-  System boundaries<br>
-  Data models<br>
-  API contracts
-</p>
-
-  </td>
-
-  <td width="25%" align="center" valign="top">
-
-<h3>BUILD</h3>
-
-<p>
-  Business logic<br>
-  Authentication<br>
-  Integrations
-</p>
-
-  </td>
-
-  <td width="25%" align="center" valign="top">
-
-<h3>VERIFY</h3>
-
-<p>
-  Validation<br>
-  Testing<br>
-  Error handling
-</p>
-
-  </td>
-
-  <td width="25%" align="center" valign="top">
-
-<h3>DELIVER</h3>
-
-<p>
-  Documentation<br>
-  Containers<br>
-  Deployment
-</p>
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-  <h2>Backend system flow</h2>
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <strong>01</strong><br>
-      Product need
-    </td>
-    <td align="center" width="4%">➜</td>
-    <td align="center" width="16%">
-      <strong>02</strong><br>
-      Architecture
-    </td>
-    <td align="center" width="4%">➜</td>
-    <td align="center" width="16%">
-      <strong>03</strong><br>
-      API services
-    </td>
-    <td align="center" width="4%">➜</td>
-    <td align="center" width="16%">
-      <strong>04</strong><br>
-      Data layer
-    </td>
-    <td align="center" width="4%">➜</td>
-    <td align="center" width="16%">
-      <strong>05</strong><br>
-      Delivery
-    </td>
-  </tr>
-</table>
-
-<br>
-<br>
-
-<div align="center">
-
-  <h2>Engineering principles</h2>
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-
-<h3>CLARITY</h3>
-
-<p>
-  Understandable structure.<br>
-  Explicit technical decisions.<br>
-  Useful documentation.
-</p>
-
-  </td>
-
-  <td width="33%" align="center" valign="top">
-
-<h3>RELIABILITY</h3>
-
-<p>
-  Predictable behavior.<br>
-  Data integrity.<br>
-  Meaningful validation.
-</p>
-
-  </td>
-
-  <td width="33%" align="center" valign="top">
-
-<h3>MAINTAINABILITY</h3>
-
-<p>
-  Purposeful architecture.<br>
-  Modular components.<br>
-  Simple solutions.
-</p>
-
-  </td>
-  </tr>
-</table>
-
-<br>
 
 <details>
-  <summary><strong>Versión en español</strong></summary>
+<summary><strong>Versión en español</strong></summary>
 
-  <br>
+<br />
 
-  <p>
-    Soy desarrollador Full Stack con enfoque en backend. Construyo las
-    bases técnicas de productos digitales mediante APIs, lógica de negocio,
-    modelos de datos, integraciones y automatización.
-  </p>
+Soy **desarrollador Full Stack con enfoque en backend**, interesado en diseñar los sistemas que impulsan productos digitales modernos.
 
-  <p>
-    Busco oportunidades donde pueda contribuir en proyectos reales,
-    fortalecer mi experiencia backend y colaborar en el desarrollo de
-    software claro, confiable y mantenible.
-  </p>
+Mi trabajo combina desarrollo backend, arquitectura web, diseño de APIs, implementación frontend, inteligencia artificial y automatización de procesos.
+
+Entiendo el software como un sistema completo: reglas de negocio, modelos de datos, servicios, integraciones, experiencia de usuario, despliegue y mantenibilidad a largo plazo.
+
+Actualmente busco oportunidades en desarrollo backend y Full Stack donde pueda contribuir en proyectos reales y seguir fortaleciendo mi experiencia técnica.
 
 </details>
 
-<br>
-<br>
+---
+
+## Technical Ecosystem
 
 <div align="center">
 
-  <h2>Next engineering builds</h2>
+### Backend & Application Development
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring&theme=dark" alt="Python, FastAPI, Java and Spring Boot" />
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=angular,react,vue,js,ts,html,css&theme=dark" alt="Angular, React, Vue, JavaScript, TypeScript, HTML and CSS" />
+
+### Data, Infrastructure & Workflow
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux and Visual Studio Code" />
 
 </div>
 
+<br />
+
 <table>
-  <tr>
-    <td width="33%" valign="top">
+<tr>
+<td align="center" width="25%">
 
-<h3>01 / API PLATFORM</h3>
+**Architecture**
 
-<p>
-  Authentication, roles, permissions, testing and containerized deployment.
-</p>
+Layered systems  
+Modular design  
+Separation of concerns
 
-<p>
-  <code>FastAPI</code>
-  <code>PostgreSQL</code>
-  <code>Docker</code>
-</p>
+</td>
+<td align="center" width="25%">
 
-  </td>
+**Backend**
 
-  <td width="33%" valign="top">
+REST APIs  
+Business logic  
+Authentication
 
-<h3>02 / AUTOMATION ENGINE</h3>
+</td>
+<td align="center" width="25%">
 
-<p>
-  Background tasks, integrations, events, monitoring and failure recovery.
-</p>
+**Data**
 
-<p>
-  <code>Python</code>
-  <code>Redis</code>
-  <code>Workers</code>
-</p>
+Relational modeling  
+Validation  
+Reliable persistence
 
-  </td>
+</td>
+<td align="center" width="25%">
 
-  <td width="33%" valign="top">
+**Delivery**
 
-<h3>03 / AI WORKSPACE</h3>
+Version control  
+Containerization  
+Deployment workflows
 
-<p>
-  Structured AI workflows, human review, controls and business automation.
-</p>
-
-<p>
-  <code>AI</code>
-  <code>APIs</code>
-  <code>Full Stack</code>
-</p>
-
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br>
-<br>
+---
+
+## How I Think About Software
+
+```mermaid
+flowchart LR
+    A[Business Need] --> B[System Design]
+    B --> C[Backend Services]
+    C --> D[Data & Integrations]
+    D --> E[User Experience]
+    E --> F[Testing & Delivery]
+    F --> G[Continuous Improvement]
+```
+
+> Good software is not only code that works. It is a system that can be understood, maintained, tested, and improved.
+
+---
+
+## Engineering Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Clarity before complexity
+
+I prefer explicit structures, understandable decisions, and code that another developer can maintain.
+
+### 02 · Architecture with purpose
+
+Patterns and abstractions should solve real problems—not exist only to make a project appear sophisticated.
+
+### 03 · Backend reliability
+
+Validation, predictable behavior, data integrity, and meaningful error handling are part of the product.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · User-centered delivery
+
+Even backend decisions influence performance, usability, security, and the final customer experience.
+
+### 05 · Documentation as engineering
+
+A strong project should explain how it works, why decisions were made, and how another developer can run it.
+
+### 06 · Continuous improvement
+
+Every project is an opportunity to improve design decisions, testing practices, automation, and delivery.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Portfolio Roadmap
+
+I am building a collection of production-oriented projects that demonstrate complete engineering decisions—not isolated code exercises.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### API Platform
+
+Secure authentication, roles, permissions, validation, documentation, testing, and containerized deployment.
+
+**Focus:** Backend architecture
+
+</td>
+<td width="33%" valign="top">
+
+### Automation System
+
+Event-driven workflows, third-party integrations, background jobs, monitoring, and failure recovery.
+
+**Focus:** Integrations and automation
+
+</td>
+<td width="33%" valign="top">
+
+### AI-Enabled Product
+
+Practical AI integration with structured outputs, human review, usage controls, and measurable business value.
+
+**Focus:** Applied artificial intelligence
+
+</td>
+</tr>
+</table>
+
+> Each project will include architecture documentation, setup instructions, technical decisions, tests, screenshots, and a live demonstration whenever possible.
+
+---
+
+## Development Workflow
+
+```text
+01  Understand the problem
+02  Define requirements and constraints
+03  Model the domain and data
+04  Design services and API contracts
+05  Implement in small, verifiable increments
+06  Test critical behavior
+07  Document technical decisions
+08  Containerize and deploy
+09  Observe, learn, and improve
+```
+
+---
+
+## What I Am Strengthening
+
+- Backend architecture and scalable service design
+- Authentication, authorization, and application security
+- Relational data modeling and database performance
+- Automated testing and software quality
+- Containers, deployment, and production workflows
+- AI integration and business process automation
+- Technical communication in Spanish and English
+
+---
+
+
+
+## Let’s Connect
+
+I am open to **Backend Developer** and **Full Stack Developer** opportunities where I can contribute, learn, and build reliable software with a collaborative team.
 
 <div align="center">
 
-  <h2>Let’s build reliable software</h2>
+[![LinkedIn](https://img.shields.io/badge/Start_a_conversation_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
 
-  <p>
-    Open to Backend Developer and Full Stack Developer opportunities.
-  </p>
+<br /><br />
 
-  <br>
-
-  <a href="https://www.linkedin.com/in/leonardo-flores-dev/">
-    <img
-      src="https://img.shields.io/badge/START_A_CONVERSATION-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Start a conversation on LinkedIn"
-    >
-  </a>
-
-  <br>
-  <br>
-
-  <sub>ARCHITECTURE · APIs · DATA · AI · AUTOMATION</sub>
+<sub>Architecture · APIs · Data · AI · Automation</sub>
 
 </div>
