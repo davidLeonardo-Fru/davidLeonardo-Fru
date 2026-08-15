@@ -4,56 +4,44 @@
 
 <br />
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=780&lines=Designing+reliable+backend+systems;Building+maintainable+APIs+and+integrations;Turning+business+workflows+into+software;Exploring+practical+AI+and+automation"
-    alt="Professional development focus"
-  />
-</a>
-
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%26_Full_Stack-111827?style=for-the-badge&logo=github&logoColor=60A5FA)
 ![Location](https://img.shields.io/badge/Quito-Ecuador-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
-![Availability](https://img.shields.io/badge/Open_to-Software_Opportunities-111827?style=for-the-badge&logo=briefcase&logoColor=60A5FA)
+
+### I design the systems behind digital products.
+
+`Backend Architecture` · `REST APIs` · `AI` · `Automation` · `Full Stack Development`
 
 </div>
 
 ---
 
-## Engineering Profile
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### Building beyond the interface
+## Profile
 
-I am a **Backend-Focused Full Stack Developer** interested in designing the systems that power modern digital products.
-
-My work combines backend development, web architecture, API design, frontend implementation, artificial intelligence, and workflow automation.
-
-I approach software as a complete system: business rules, data models, services, integrations, user experience, deployment, and long-term maintainability.
-
-</td>
-<td width="40%" valign="top">
-
-### Core Direction
+Backend-focused Full Stack Developer building maintainable APIs, integrations, automation workflows, and complete web products.
 
 ```text
-FOCUS       Backend Engineering
-DESIGN      Web Architecture
-BUILD       APIs & Integrations
-EXPLORE     AI & Automation
-DELIVER     Full Stack Products
+ROLE       Full Stack Developer
+FOCUS      Backend Engineering
+LOCATION   Quito, Ecuador
+LANGUAGES  Spanish · English
 ```
 
-### Current Status
+</td>
+<td width="45%" valign="top">
+
+## Engineering Focus
 
 ```text
-Based in    Quito, Ecuador
-Languages   Spanish · English
-Open to     Backend / Full Stack roles
+01  Architecture
+02  APIs & Services
+03  Data & Integrations
+04  AI & Automation
+05  Product Delivery
 ```
 
 </td>
@@ -61,133 +49,79 @@ Open to     Backend / Full Stack roles
 </table>
 
 <details>
-<summary><strong>Versión en español</strong></summary>
+<summary><strong>Leer presentación en español</strong></summary>
 
 <br />
 
-Soy **desarrollador Full Stack con enfoque en backend**, interesado en diseñar los sistemas que impulsan productos digitales modernos.
-
-Mi trabajo combina desarrollo backend, arquitectura web, diseño de APIs, implementación frontend, inteligencia artificial y automatización de procesos.
-
-Entiendo el software como un sistema completo: reglas de negocio, modelos de datos, servicios, integraciones, experiencia de usuario, despliegue y mantenibilidad a largo plazo.
-
-Actualmente busco oportunidades en desarrollo backend y Full Stack donde pueda contribuir en proyectos reales y seguir fortaleciendo mi experiencia técnica.
+Desarrollador Full Stack con enfoque en backend. Diseño APIs, integraciones, automatizaciones y productos web mantenibles, conectando arquitectura técnica con necesidades reales de negocio.
 
 </details>
 
 ---
 
-## Technical Ecosystem
+## Technology Stack
 
 <div align="center">
 
-### Backend & Application Development
+### Core Backend
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring&theme=dark" alt="Python, FastAPI, Java and Spring Boot" />
 
-### Frontend Engineering
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=angular,react,vue,js,ts,html,css&theme=dark" alt="Angular, React, Vue, JavaScript, TypeScript, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,html,css&theme=dark" alt="Angular, React, Vue, TypeScript, JavaScript, HTML and CSS" />
 
-### Data, Infrastructure & Workflow
+### Data & Delivery
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub and Linux" />
 
 </div>
 
-<br />
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Architecture**
-
-Layered systems  
-Modular design  
-Separation of concerns
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-REST APIs  
-Business logic  
-Authentication
-
-</td>
-<td align="center" width="25%">
-
-**Data**
-
-Relational modeling  
-Validation  
-Reliable persistence
-
-</td>
-<td align="center" width="25%">
-
-**Delivery**
-
-Version control  
-Containerization  
-Deployment workflows
-
-</td>
-</tr>
-</table>
-
 ---
 
-## How I Think About Software
+## System Mindset
 
 ```mermaid
 flowchart LR
-    A[Business Need] --> B[System Design]
-    B --> C[Backend Services]
-    C --> D[Data & Integrations]
-    D --> E[User Experience]
-    E --> F[Testing & Delivery]
-    F --> G[Continuous Improvement]
+    A[Product Need] --> B[Architecture]
+    B --> C[API Services]
+    C --> D[Data Layer]
+    D --> E[Web Experience]
+    E --> F[Deploy & Improve]
 ```
-
-> Good software is not only code that works. It is a system that can be understood, maintained, tested, and improved.
-
----
-
-## Engineering Principles
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 01 · Clarity before complexity
+### Design
 
-I prefer explicit structures, understandable decisions, and code that another developer can maintain.
-
-### 02 · Architecture with purpose
-
-Patterns and abstractions should solve real problems—not exist only to make a project appear sophisticated.
-
-### 03 · Backend reliability
-
-Validation, predictable behavior, data integrity, and meaningful error handling are part of the product.
+Modular systems  
+Clear boundaries
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 04 · User-centered delivery
+### Build
 
-Even backend decisions influence performance, usability, security, and the final customer experience.
+Reliable APIs  
+Business logic
 
-### 05 · Documentation as engineering
+</td>
+<td align="center" width="25%">
 
-A strong project should explain how it works, why decisions were made, and how another developer can run it.
+### Connect
 
-### 06 · Continuous improvement
+Data flows  
+Integrations
 
-Every project is an opportunity to improve design decisions, testing practices, automation, and delivery.
+</td>
+<td align="center" width="25%">
+
+### Deliver
+
+Containers  
+Deployment
 
 </td>
 </tr>
@@ -195,101 +129,91 @@ Every project is an opportunity to improve design decisions, testing practices, 
 
 ---
 
-## Portfolio Roadmap
-
-I am building a collection of production-oriented projects that demonstrate complete engineering decisions—not isolated code exercises.
+## Project Lab
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### API Platform
+### 01 · Backend Platform
 
-Secure authentication, roles, permissions, validation, documentation, testing, and containerized deployment.
+Authentication, roles, permissions, REST APIs, testing and Docker.
 
-**Focus:** Backend architecture
+`FastAPI` `PostgreSQL`
 
-</td>
-<td width="33%" valign="top">
-
-### Automation System
-
-Event-driven workflows, third-party integrations, background jobs, monitoring, and failure recovery.
-
-**Focus:** Integrations and automation
+**Status:** Planned
 
 </td>
 <td width="33%" valign="top">
 
-### AI-Enabled Product
+### 02 · Automation Engine
 
-Practical AI integration with structured outputs, human review, usage controls, and measurable business value.
+Events, background jobs, integrations, monitoring and recovery.
 
-**Focus:** Applied artificial intelligence
+`Python` `Redis`
+
+**Status:** Planned
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · AI Product
+
+Structured AI workflows, human review and usage controls.
+
+`AI` `Full Stack`
+
+**Status:** Planned
 
 </td>
 </tr>
 </table>
 
-> Each project will include architecture documentation, setup instructions, technical decisions, tests, screenshots, and a live demonstration whenever possible.
+> The portfolio is being rebuilt around production-oriented projects with architecture notes, tests, documentation, screenshots and deployment.
 
 ---
 
-## Development Workflow
+## Engineering Standard
 
-```text
-01  Understand the problem
-02  Define requirements and constraints
-03  Model the domain and data
-04  Design services and API contracts
-05  Implement in small, verifiable increments
-06  Test critical behavior
-07  Document technical decisions
-08  Containerize and deploy
-09  Observe, learn, and improve
-```
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Clear
+
+Readable structure  
+Useful documentation
+
+</td>
+<td width="33%" align="center">
+
+### Reliable
+
+Validation  
+Testing  
+Predictable behavior
+
+</td>
+<td width="33%" align="center">
+
+### Maintainable
+
+Purposeful architecture  
+Simple decisions
+
+</td>
+</tr>
+</table>
 
 ---
-
-## What I Am Strengthening
-
-- Backend architecture and scalable service design
-- Authentication, authorization, and application security
-- Relational data modeling and database performance
-- Automated testing and software quality
-- Containers, deployment, and production workflows
-- AI integration and business process automation
-- Technical communication in Spanish and English
-
----
-
-## GitHub Activity
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=davidLeonardo-Fru&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&ring_color=3B82F6"
-  alt="Leonardo Flores GitHub statistics"
-/>
+## Let’s Build Something Reliable
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidLeonardo-Fru&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"
-  alt="Most used languages"
-/>
+Open to **Backend Developer** and **Full Stack Developer** opportunities.
 
-</div>
-
----
-
-## Let’s Connect
-
-I am open to **Backend Developer** and **Full Stack Developer** opportunities where I can contribute, learn, and build reliable software with a collaborative team.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Start_a_conversation_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
 
 <br /><br />
 
