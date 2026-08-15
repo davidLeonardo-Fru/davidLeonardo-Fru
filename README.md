@@ -1,79 +1,298 @@
 <div align="center">
 
-# Leonardo Flores
+<img src="./github-profile-banner.png" width="100%" alt="Leonardo Flores — Backend-Focused Full Stack Developer" />
 
-### Backend-Focused Full Stack Developer
+<br />
 
-Building maintainable web systems, reliable APIs, and intelligent automations.
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=780&lines=Designing+reliable+backend+systems;Building+maintainable+APIs+and+integrations;Turning+business+workflows+into+software;Exploring+practical+AI+and+automation"
+    alt="Professional development focus"
+  />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+![Location](https://img.shields.io/badge/Quito-Ecuador-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
+![Availability](https://img.shields.io/badge/Open_to-Software_Opportunities-111827?style=for-the-badge&logo=briefcase&logoColor=60A5FA)
 
 </div>
 
 ---
 
-## About Me
+## Engineering Profile
 
-I am a Full Stack Developer focused on backend development, web architecture, API design, artificial intelligence, and process automation.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I work across the complete development lifecycle—from structuring backend services and data flows to building clear and functional interfaces. My goal is to create software that is maintainable, scalable, and aligned with real business needs.
+### Building beyond the interface
 
-- Backend-focused full stack development
-- REST API design and system integrations
-- Web architecture and database-driven applications
-- AI-assisted solutions and workflow automation
-- UX/UI-aware frontend implementation
-- Based in Quito, Ecuador
-- Open to software development opportunities
+I am a **Backend-Focused Full Stack Developer** interested in designing the systems that power modern digital products.
 
-## Sobre mí
+My work combines backend development, web architecture, API design, frontend implementation, artificial intelligence, and workflow automation.
 
-Soy desarrollador Full Stack con enfoque en backend, arquitectura web, diseño de APIs, inteligencia artificial y automatización de procesos.
+I approach software as a complete system: business rules, data models, services, integrations, user experience, deployment, and long-term maintainability.
 
-Trabajo en soluciones completas: desde la estructura de servicios, datos e integraciones hasta interfaces funcionales y fáciles de utilizar. Busco desarrollar software mantenible, escalable y conectado con necesidades reales de negocio.
+</td>
+<td width="40%" valign="top">
 
-## Technology Stack
+### Core Direction
 
-### Backend
+```text
+FOCUS       Backend Engineering
+DESIGN      Web Architecture
+BUILD       APIs & Integrations
+EXPLORE     AI & Automation
+DELIVER     Full Stack Products
+```
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F)
+### Current Status
 
-### Frontend
+```text
+Based in    Quito, Ecuador
+Languages   Spanish · English
+Open to     Backend / Full Stack roles
+```
 
-![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
+</td>
+</tr>
+</table>
 
-### Engineering Interests
+<details>
+<summary><strong>Versión en español</strong></summary>
 
-`Backend Architecture` · `REST APIs` · `Databases` · `System Integration` · `AI` · `Automation` · `UX/UI`
+<br />
 
-## What I Value
+Soy **desarrollador Full Stack con enfoque en backend**, interesado en diseñar los sistemas que impulsan productos digitales modernos.
 
-- Clear architecture over unnecessary complexity
-- Reliable and maintainable code
-- Practical solutions to real problems
-- Continuous learning and thoughtful collaboration
-- Documentation that helps teams move faster
+Mi trabajo combina desarrollo backend, arquitectura web, diseño de APIs, implementación frontend, inteligencia artificial y automatización de procesos.
 
-## Current Direction
+Entiendo el software como un sistema completo: reglas de negocio, modelos de datos, servicios, integraciones, experiencia de usuario, despliegue y mantenibilidad a largo plazo.
 
-I am strengthening my portfolio with production-oriented projects centered on backend engineering, authentication, data modeling, API integrations, testing, automation, and deployment.
+Actualmente busco oportunidades en desarrollo backend y Full Stack donde pueda contribuir en proyectos reales y seguir fortaleciendo mi experiencia técnica.
 
-## Contact
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/leonardo-flores-dev/)
+</details>
 
 ---
 
+## Technical Ecosystem
+
 <div align="center">
 
-**Open to Full Stack and Backend Development opportunities**
+### Backend & Application Development
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring&theme=dark" alt="Python, FastAPI, Java and Spring Boot" />
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=angular,react,vue,js,ts,html,css&theme=dark" alt="Angular, React, Vue, JavaScript, TypeScript, HTML and CSS" />
+
+### Data, Infrastructure & Workflow
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux and Visual Studio Code" />
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Architecture**
+
+Layered systems  
+Modular design  
+Separation of concerns
+
+</td>
+<td align="center" width="25%">
+
+**Backend**
+
+REST APIs  
+Business logic  
+Authentication
+
+</td>
+<td align="center" width="25%">
+
+**Data**
+
+Relational modeling  
+Validation  
+Reliable persistence
+
+</td>
+<td align="center" width="25%">
+
+**Delivery**
+
+Version control  
+Containerization  
+Deployment workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## How I Think About Software
+
+```mermaid
+flowchart LR
+    A[Business Need] --> B[System Design]
+    B --> C[Backend Services]
+    C --> D[Data & Integrations]
+    D --> E[User Experience]
+    E --> F[Testing & Delivery]
+    F --> G[Continuous Improvement]
+```
+
+> Good software is not only code that works. It is a system that can be understood, maintained, tested, and improved.
+
+---
+
+## Engineering Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Clarity before complexity
+
+I prefer explicit structures, understandable decisions, and code that another developer can maintain.
+
+### 02 · Architecture with purpose
+
+Patterns and abstractions should solve real problems—not exist only to make a project appear sophisticated.
+
+### 03 · Backend reliability
+
+Validation, predictable behavior, data integrity, and meaningful error handling are part of the product.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · User-centered delivery
+
+Even backend decisions influence performance, usability, security, and the final customer experience.
+
+### 05 · Documentation as engineering
+
+A strong project should explain how it works, why decisions were made, and how another developer can run it.
+
+### 06 · Continuous improvement
+
+Every project is an opportunity to improve design decisions, testing practices, automation, and delivery.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Portfolio Roadmap
+
+I am building a collection of production-oriented projects that demonstrate complete engineering decisions—not isolated code exercises.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### API Platform
+
+Secure authentication, roles, permissions, validation, documentation, testing, and containerized deployment.
+
+**Focus:** Backend architecture
+
+</td>
+<td width="33%" valign="top">
+
+### Automation System
+
+Event-driven workflows, third-party integrations, background jobs, monitoring, and failure recovery.
+
+**Focus:** Integrations and automation
+
+</td>
+<td width="33%" valign="top">
+
+### AI-Enabled Product
+
+Practical AI integration with structured outputs, human review, usage controls, and measurable business value.
+
+**Focus:** Applied artificial intelligence
+
+</td>
+</tr>
+</table>
+
+> Each project will include architecture documentation, setup instructions, technical decisions, tests, screenshots, and a live demonstration whenever possible.
+
+---
+
+## Development Workflow
+
+```text
+01  Understand the problem
+02  Define requirements and constraints
+03  Model the domain and data
+04  Design services and API contracts
+05  Implement in small, verifiable increments
+06  Test critical behavior
+07  Document technical decisions
+08  Containerize and deploy
+09  Observe, learn, and improve
+```
+
+---
+
+## What I Am Strengthening
+
+- Backend architecture and scalable service design
+- Authentication, authorization, and application security
+- Relational data modeling and database performance
+- Automated testing and software quality
+- Containers, deployment, and production workflows
+- AI integration and business process automation
+- Technical communication in Spanish and English
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=davidLeonardo-Fru&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&ring_color=3B82F6"
+  alt="Leonardo Flores GitHub statistics"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidLeonardo-Fru&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"
+  alt="Most used languages"
+/>
+
+</div>
+
+---
+
+## Let’s Connect
+
+I am open to **Backend Developer** and **Full Stack Developer** opportunities where I can contribute, learn, and build reliable software with a collaborative team.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Start_a_conversation_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-flores-dev/)
+
+<br /><br />
+
+<sub>Architecture · APIs · Data · AI · Automation</sub>
 
 </div>
